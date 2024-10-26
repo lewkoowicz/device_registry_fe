@@ -1,0 +1,42 @@
+{
+  "navbar": {
+    "signin": "Zaloguj się",
+    "signout": "Wyloguj się",
+    "settings": "Ustawienia"
+  },
+  "signin": {
+    "signin": "Zaloguj się",
+    "email": "Email",
+    "password": "Hasło",
+    "signInWithGoogle": "Zaloguj się przez Google",
+    "noAccount": "Nie masz jeszcze konta?",
+    "signup": "Zarejestruj się teraz",
+    "forgotPassword": "Nie pamiętasz hasła?"
+  },
+  "signup": {
+    "signup": "Zarejestruj się",
+    "email": "Email",
+    "password": "Hasło",
+    "confirmPassword": "Potwierdź hasło",
+    "passwordsDoNotMatch": "Hasła są niezgodne",
+    "signupGoogle": "Zarejestruj się przez Google"
+  },
+  "deviceCard": {
+    "deviceId": "Urządzenie nr: ",
+    "serialNumber": "Numer seryjny: ",
+    "assignedAt": "Przypisane: ",
+    "unassign": "Odpisz"
+  },
+  "assignDevice": {
+    "assignDevice": "Przypisz urządzenie",
+    "serialNumber": "Numer seryjny",
+    "assign": "Przypisz"
+  },
+  "deviceRegistry": {
+    "deviceRegistry": "Rejestr urządzeń",
+    "signIn": "Zaloguj się ",
+    "or": "lub ",
+    "signUp": "zarejestruj ",
+    "toSee": "aby zobaczyć swoje urządzenia."
+  }
+}

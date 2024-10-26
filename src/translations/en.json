@@ -1,0 +1,42 @@
+{
+  "navbar": {
+    "signin": "Sign in",
+    "signout": "Sign out",
+    "settings": "Settings"
+  },
+  "signin": {
+    "signin": "Sign in",
+    "email": "Email",
+    "password": "Password",
+    "signInWithGoogle": "Sign in with Google",
+    "noAccount": "You don't have an account yet?",
+    "signup": "Sign up now",
+    "forgotPassword": "Forgot your password?"
+  },
+  "signup": {
+    "signup": "Sign up",
+    "email": "Email",
+    "password": "Password",
+    "confirmPassword": "Confirm password",
+    "passwordsDoNotMatch": "Passwords do not match",
+    "signupGoogle": "Sign up with Google"
+  },
+  "deviceCard": {
+    "deviceId": "Device id: ",
+    "serialNumber": "Serial number: ",
+    "assignedAt": "Assigned at: ",
+    "unassign": "Unassign"
+  },
+  "assignDevice": {
+    "assignDevice": "Assign Device",
+    "serialNumber": "Serial number",
+    "assign": "Assign"
+  },
+  "deviceRegistry": {
+    "deviceRegistry": "Device Registry",
+    "signIn": "Sign in ",
+    "or": "or ",
+    "signUp": "sign up ",
+    "toSee": "to see your devices."
+  }
+}
